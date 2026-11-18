@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225040133
+# Name: INDHUJA.K
+# Date: 19/10/2026
 
 
 # AIM:
@@ -40,6 +40,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="1057" height="850" alt="image" src="https://github.com/user-attachments/assets/e9230cb2-24c0-43c4-8579-0f40505ec0f7" />
 
 
 
@@ -58,6 +59,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1084" height="861" alt="image" src="https://github.com/user-attachments/assets/0a15f067-a5ac-412d-86c7-e352e16e8884" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -67,6 +69,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="1058" height="714" alt="image" src="https://github.com/user-attachments/assets/625f2f96-5b8e-4b03-bd78-788b06b95f6b" />
 
 
 # PACKAGE DIAGRAM:
@@ -80,6 +83,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1061" height="794" alt="image" src="https://github.com/user-attachments/assets/202fc0f2-eda9-4718-b7e1-4f41181f4a9b" />
 
 
 
@@ -97,6 +101,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1089" height="862" alt="image" src="https://github.com/user-attachments/assets/8d94e513-d5f2-4064-a99c-b6223eecc917" />
 
 
 
@@ -116,6 +121,7 @@ Represent the details of UML use cases.
 Model the logic of a sophisticated procedure, function, or operation. See how objects and components interact with each other to complete a process.
 
 Plan and understand the detailed functionality of an existing or future scenario.
+
 
 
 
