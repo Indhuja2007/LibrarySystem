@@ -124,6 +124,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+<img width="1225" height="681" alt="image" src="https://github.com/user-attachments/assets/2dcdd0ab-c75a-4ab9-8741-cc02e95c6796" />
 
 
 
